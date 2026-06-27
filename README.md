@@ -37,7 +37,7 @@ The experiments are conducted using the **VIM-POLYP Multimodal Colon Cancer Data
 The dataset is publicly available at:
 
 ```bash
-https://tinyurl.com/3u365xnf
+https://tinyurl.com/yemn5xv4
 ```
 
 Update the dataset paths inside **proposed_model.ipynb** before execution.
